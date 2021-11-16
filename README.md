@@ -1,4 +1,5 @@
 # sorting-visualizer
+> [See the project here](https://kiiirtiiii.github.io/sorting-visualizer/)
 
 Shows the working of different sorting algorithms like:
 - Bubble sort
