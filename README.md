@@ -10,4 +10,4 @@ Shows the working of different sorting algorithms like:
 - Heap sort
 
 ## Project Screenshot
-![Screenshot (110)](https://user-images.githubusercontent.com/61161878/142048048-26ade1d8-3e40-4819-995f-fe3f5a87b3e3.png)
+![Screenshot (111)](https://user-images.githubusercontent.com/61161878/142048465-a70f8244-0c0f-4f0a-9e2b-61bfb28660d4.png)
